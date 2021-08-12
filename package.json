@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "child_process": "^1.0.2",
+    "colors": "^1.4.0",
+    "os": "^0.1.1"
+  },
+  "name": "truc-rouge-aventure",
+  "version": "1.0.0",
+  "description": "Une copie du jeu Thin Ice/Chaud Devant de Club Penguin en NodeJS dans votre Terminal ! Suivez l'aventure d'un truc rouge qui ne sait pas nager...",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/p33r-positron/Truc-Rouge-Aventure.git"
+  },
+  "keywords": [
+    "truc-rouge-aventure",
+    "game"
+  ],
+  "author": "posicon",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/p33r-positron/Truc-Rouge-Aventure/issues"
+  },
+  "homepage": "https://github.com/p33r-positron/Truc-Rouge-Aventure#readme"
+}
